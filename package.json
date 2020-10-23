@@ -5,7 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "webpack --mode development serve"
+    "start": "webpack --mode development serve --env mode=development"
   },
   "devDependencies": {
     "html-loader": "^1.3.2",

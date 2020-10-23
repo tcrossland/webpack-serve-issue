@@ -5,7 +5,7 @@ module.exports = (env, argv) => {
   console.log("DEV", argv);
   return {
     mode: "development",
-    entry: ["./src/prod.html"],
+    entry: ["./src/dev.html"],
     module: {
       rules: [
         {
