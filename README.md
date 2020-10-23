@@ -1,6 +1,6 @@
-Example for https://github.com/webpack/webpack-cli/issues/1976, possibly related to:
- * https://github.com/webpack/webpack-dev-server/issues/2770
- * https://github.com/webpack/webpack-cli/issues/1948
+Example for [webpack/webpack-cli#1976](https://github.com/webpack/webpack-cli/issues/1976), possibly related to:
+ * [webpack/webpack-dev-server#2770](https://github.com/webpack/webpack-dev-server/issues/2770)
+ * [webpack/webpack-cli#1948](https://github.com/webpack/webpack-cli/issues/1948)
 
 Documentation [here](https://webpack.js.org/api/cli/#default-configurations) states:
 > Default Configurations
